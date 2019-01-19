@@ -2,7 +2,7 @@
 ## Agent-Based-Model: if you want to choose, meet an expert. Don't talk.
 
 
-## Abstract
+### Abstract
 Though decision-making is a pervasive and intriguing research subject, little is known on the factors
 that influence the dynamic of authority, community and individuals. Citizens may consult with the
 "front-desk" services that are offered by the authorities or share and receive information within their
